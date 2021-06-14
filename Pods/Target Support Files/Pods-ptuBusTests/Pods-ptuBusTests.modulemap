@@ -1,0 +1,6 @@
+framework module Pods_ptuBusTests {
+  umbrella header "Pods-ptuBusTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

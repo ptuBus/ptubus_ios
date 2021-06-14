@@ -1,0 +1,6 @@
+framework module Pods_ptuBus {
+  umbrella header "Pods-ptuBus-umbrella.h"
+
+  export *
+  module * { export * }
+}
